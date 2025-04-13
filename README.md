@@ -1,5 +1,5 @@
 ## Hi there 👋
-![bullet](https://github.com/user-attachments/assets/1ff13f1c-f06a-447d-9759-c789777a4b5d)
+![Header](./your-header-image-name.png)
 
 <!--
 **Amuravey/Amuravey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
